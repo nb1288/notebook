@@ -1,17 +1,6 @@
-<div id="primary" class="site-content">
-		<div id="content" role="main">
+# iOS利器“小火箭”（Shadowrocket）最全使用教程
 
-			
-				
-	<article id="post-2300" class="post-2300 post type-post status-publish format-standard hentry category-tools tag-gfw tag-shadowrocket tag-shadowsocks tag-surge tag-540">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">iOS利器“小火箭”（Shadowrocket）最全使用教程</h1>
-										<div class="comments-link">
-					<a href="https://laob.me/2300/#comments">81条回复</a>				</div><!-- .comments-link -->
-					</header><!-- .entry-header -->
-
-				<div class="entry-content">
+<div class="entry-content">
 			<p>最近得知Surge2可以向surge3迁移或赠送Mac版，我使用授权迁移时提示我已经被其他邮箱迁移走，官推不回，邮件不回，想想买个新版吧？258元？于是到美区买了Shadowrocket，我们俗称的小火箭，因为其图标是一个小火箭的LOGO，所以大家爱称之为小火箭。大家到App Store下载的时候别认错了，App Store好几款挂羊头卖狗肉的冒充货。配置下来发现，经过3年的发展，对得起这个价格。</p>
 <p></p>
 <p>　　Shadowrocket是一款基于规则的网络调试工具，具有性能高和稳定好、使用流畅，功能多样的特点，只占用最少的系统资源，全盘接管所有的连接，根据规则来进行处理，让你无忧无虑。独有的场景模式，方便根据不同需求自动切换配置及节点。不过这个指是软件教程，另外还需要一个好用的服务器或机场服务。</p>
